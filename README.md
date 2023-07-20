@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+[![Step 4, Merge your pull request](https://github.com/manojpunia1/skills-hello-github-actions/actions/workflows/4-merge-your-pull-request.yml/badge.svg)](https://github.com/manojpunia1/skills-hello-github-actions/actions/workflows/4-merge-your-pull-request.yml)
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
